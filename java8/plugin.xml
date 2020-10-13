@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin>
+        <name>A插件</name>
+        <jar>D:\flinkDemo\java8\out\artifacts\test\test.jar</jar>
+        <class>com.deri.stream.plugina.PluginA</class>
+    </plugin>
+    <plugin>
+        <name>C插件</name>
+        <jar>D:\flinkDemo\java8\out\artifacts\test\test.jar</jar>
+        <class>com.deri.stream.plugina.PluginC</class>
+    </plugin>
+</plugins>
